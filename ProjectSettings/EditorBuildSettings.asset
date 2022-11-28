@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Prototype.unity
+    guid: 0f16e8f5414c8964291b405d58f7aeef
+  - enabled: 1
+    path: Assets/Scenes/StateDesignPattern.unity
+    guid: 666d6bf84ed839b4481411eafb1b8584
+  - enabled: 1
+    path: Assets/Scenes/TempleteMethod.unity
+    guid: badb658860b44f64baf0f1f2c2799c17
+  - enabled: 1
+    path: Assets/Scenes/MediaterPattern.unity
+    guid: 6778e850f3ac1c34699650997490d40d
+  - enabled: 1
+    path: Assets/Scenes/Singleton.unity
+    guid: a7704ff0ca48a6c46888cfa16d88d3bd
+  - enabled: 1
+    path: Assets/Scenes/ObjectPoolingObserver.unity
+    guid: 4f9d39da23d5a9440a765d3825548759
+  - enabled: 1
+    path: Assets/Scenes/ComponentPattern.unity
+    guid: 357ddea4554e504409f6330863dd921b
+  - enabled: 1
+    path: Assets/Scenes/Gameloop&Update.unity
+    guid: 69e3030cd4e7efa4797eaba4131f05ac
+  - enabled: 1
+    path: Assets/Scenes/StrategyPattern.unity
+    guid: b897898c8a909d74bb88cb8fcea84f89
+  - enabled: 1
+    path: Assets/Scenes/DesignPatterns.unity
+    guid: 02a1c6ce4eb8ddc4d9ed092509fe4254
